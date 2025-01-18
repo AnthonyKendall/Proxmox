@@ -14,3 +14,8 @@ Cloud Infrastructure Setup – I gained knowledge in setting up and managing clo
 
 
 
+#Steps Taken
+
+First, I had to navigate to the Proxmox website located here < https://www.proxmox.com/en/downloads/proxmox-virtual-environment > 
+
+![image](https://github.com/user-attachments/assets/7ee6029a-9a5c-4a1b-89ed-e8fb051c93e6)
