@@ -45,8 +45,7 @@ Once I booted and set everything up, I was finally met with a page the informed 
 From here, you will be advised that this Proxmox does not have a valid license. I went ahead and purchased one because I want security and patches applied to my server from Proxmox. Well worth it. Here is the Proxmox store to buy a license <https://shop.proxmox.com/index.php?rp=/store/proxmox-ve-community> & here is the link on how to apply the license to your Proxmox server <https://shop.proxmox.com/index.php?rp=/knowledgebase/4/How-do-I-upload-my-Proxmox-VE-subscription-key-to-my-Proxmox-VE-host.html> 
 
 
-Once I purchased a valid license from Proxmox, its time to setup some VM's. In this case, I want to setup a Windows server 2022, but first, we need to set some actions up. 
+Once I purchased a valid license from Proxmox, its time to setup some VM's. In this case, I want to setup a Windows server 2022, but first, we need to set some actions up. Before I go on, just wanted to give credit to this channel as this helped me set everything up < https://www.youtube.com/watch?v=JrIDEH9jsPg&t=426s > 
 
-First, 
-
+Okay so first, I had to...
 
