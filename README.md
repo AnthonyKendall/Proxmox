@@ -103,7 +103,7 @@ Now, review all your work you have done and make sure its correct. If so, then j
 
 ![image](https://github.com/user-attachments/assets/967c55e6-e9aa-4706-92c0-952a283bc72e)
 
-Next, go to the VM you just created, navigate to hardware,then add, then CD/DVD drive 
+Next, go to the VM you just created, navigate to hardware, then add, then CD/DVD drive 
 
 ![image](https://github.com/user-attachments/assets/dc781c6c-7655-409a-b349-c466fc19b67c)
 
@@ -139,7 +139,7 @@ Then click on Next again
 
 ![image](https://github.com/user-attachments/assets/191b5e75-6b9e-4a18-8d54-050aed4fcde0)
 
-Now the OS will install 
+Now the OS will be installed 
 
 ![image](https://github.com/user-attachments/assets/f2cb1c60-aa91-48b8-b368-1548ce9934cc)
 
@@ -151,7 +151,7 @@ Click on Finish and you will now be taken to the main OS display
 
 ![image](https://github.com/user-attachments/assets/f7300339-7311-43a3-9cc1-be25eddd999c)
 
-From here, check the drivers to make sure everything isntalled correctly. 
+From here, check the drivers to make sure everything installed correctly. 
 
 ![image](https://github.com/user-attachments/assets/b717e9a2-5583-4fbb-9dd9-d162b66160a6)
 
@@ -165,7 +165,7 @@ Then click on browser again, select the virtio drive and click on OK. Then click
 ![image](https://github.com/user-attachments/assets/42f9da75-e990-46f7-b8ce-cb90a723a6d5)
 
 
-Once done, everything should have installed 
+Once done, everything should have been installed. 
 
 ![image](https://github.com/user-attachments/assets/4e6d5dd8-9029-4e65-9de7-83cf72c64b72)
 
@@ -182,8 +182,8 @@ Open CMD in the directory you are in and type in blnsvr.exe -i
 
 ![image](https://github.com/user-attachments/assets/8f285cc6-7877-4ecd-9ef2-5d0762188d17)
 
-Now that everything is checked, lets run a windows update to make sure everthing is updated. 
+Now that everything is checked, lets run a windows update to make sure everything is updated. 
 
 ![image](https://github.com/user-attachments/assets/97ac6522-8204-42bb-8a2d-331fa71e6ee5)
 
-Thats it! We have successfully created a Windows server 2022 VM in Proxmox. 
+Thats it! We have successfully created a Windows server 2022 VM in Proxmox.
