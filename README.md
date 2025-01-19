@@ -7,9 +7,13 @@ Proxmox is an open-source virtualization platform that combines KVM (Kernel-base
 ### Skills Learned
 
 Virtualization Management – I learned how to create and manage virtual machines and containers, which are essential for handling virtualized environments in real-world scenarios.
+
 Linux System Administration – I gained hands-on experience with Linux, which improved my ability to work with Linux-based systems and perform administrative tasks in IT environments.
+
 Networking Configuration – I developed skills in configuring networking for virtual machines, including setting up bridges, VLANs, and storage networking, which are critical for managing networked infrastructure.
+
 Backup & Disaster Recovery – I became knowledgeable in managing VM backups, snapshots, and disaster recovery processes, ensuring data integrity and availability in case of failures.
+
 Cloud Infrastructure Setup – I gained knowledge in setting up and managing cloud-like infrastructure using Proxmox’s clustering features, which enhanced my understanding of how to scale and manage virtualized resources in cloud environments.
 
 
